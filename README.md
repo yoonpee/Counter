@@ -1,2 +1,6 @@
 # Counter
-button counter change.
+* DOM Manipulation
+* Control Structures
+* Array.forEach()
+* JavaScript CSS Manipulation
+* eventListeners
